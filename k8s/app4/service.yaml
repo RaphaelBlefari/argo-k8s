@@ -6,5 +6,5 @@ spec:
   selector:
     app: app4
   ports:
-  - port: 8050
+  - port: 8040
     targetPort: 8080
